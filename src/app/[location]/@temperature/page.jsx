@@ -1,7 +1,10 @@
-export const LocationTemperature = () => {
+const LocationTemperature = () => {
     return (
-        <div>
-            location temperature
-        </div>
+      <div>
+        <h1>LocationTemperature Component</h1>
+      </div>
     );
-}
+  };
+  
+  export default LocationTemperature;
+  

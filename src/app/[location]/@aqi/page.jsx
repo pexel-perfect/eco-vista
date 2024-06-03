@@ -1,7 +1,9 @@
-export const LocationAqi = () => {
+const LocationAqi = () => {
     return (
         <div>
-            location aqi
+            <h1>LocationAqi Component</h1>
         </div>
     );
-}
+};
+
+export default LocationAqi;

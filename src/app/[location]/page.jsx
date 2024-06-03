@@ -1,7 +1,9 @@
-export const LocationPage = () => {
+const LocationPage = () => {
     return (
         <div>
-            this is location page.
+            <h1>LocationPage Component</h1>
         </div>
     );
-}
+};
+
+export default LocationPage;

@@ -1,7 +1,10 @@
-export const LocationWind = () => {
+const LocationWind = () => {
     return (
-        <div>
-            location wind
-        </div>
+      <div>
+        <h1>LocationWind Component</h1>
+      </div>
     );
-}
+  };
+  
+  export default LocationWind;
+  
